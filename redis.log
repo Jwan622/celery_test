@@ -1,0 +1,38 @@
+52490:C 18 Jun 2024 15:18:02.580 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+52490:C 18 Jun 2024 15:18:02.580 * Redis version=7.2.5, bits=64, commit=00000000, modified=0, pid=52490, just started
+52490:C 18 Jun 2024 15:18:02.580 * Configuration loaded
+52490:M 18 Jun 2024 15:18:02.580 * Increased maximum number of open files to 10032 (it was originally set to 256).
+52490:M 18 Jun 2024 15:18:02.580 * monotonic clock: POSIX clock_gettime
+52490:M 18 Jun 2024 15:18:02.581 * Running mode=standalone, port=6379.
+52490:M 18 Jun 2024 15:18:02.581 # WARNING: The TCP backlog setting of 511 cannot be enforced because kern.ipc.somaxconn is set to the lower value of 128.
+52490:M 18 Jun 2024 15:18:02.582 * Server initialized
+52490:M 18 Jun 2024 15:18:02.582 * Loading RDB produced by version 7.2.5
+52490:M 18 Jun 2024 15:18:02.582 * RDB age 27 seconds
+52490:M 18 Jun 2024 15:18:02.582 * RDB memory usage when created 1.05 Mb
+52490:M 18 Jun 2024 15:18:02.582 * Done loading RDB, keys loaded: 0, keys expired: 0.
+52490:M 18 Jun 2024 15:18:02.582 * DB loaded from disk: 0.000 seconds
+52490:M 18 Jun 2024 15:18:02.582 * Ready to accept connections tcp
+52490:signal-handler (1718738294) Received SIGINT scheduling shutdown...
+52490:M 18 Jun 2024 15:18:14.506 * User requested shutdown...
+52490:M 18 Jun 2024 15:18:14.506 * Saving the final RDB snapshot before exiting.
+52490:M 18 Jun 2024 15:18:14.510 * DB saved on disk
+52490:M 18 Jun 2024 15:18:14.511 # Redis is now ready to exit, bye bye...
+52524:C 18 Jun 2024 15:18:26.648 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+52524:C 18 Jun 2024 15:18:26.648 * Redis version=7.2.5, bits=64, commit=00000000, modified=0, pid=52524, just started
+52524:C 18 Jun 2024 15:18:26.648 * Configuration loaded
+52524:M 18 Jun 2024 15:18:26.649 * Increased maximum number of open files to 10032 (it was originally set to 256).
+52524:M 18 Jun 2024 15:18:26.649 * monotonic clock: POSIX clock_gettime
+52524:M 18 Jun 2024 15:18:26.649 * Running mode=standalone, port=6379.
+52524:M 18 Jun 2024 15:18:26.649 # WARNING: The TCP backlog setting of 511 cannot be enforced because kern.ipc.somaxconn is set to the lower value of 128.
+52524:M 18 Jun 2024 15:18:26.650 * Server initialized
+52524:M 18 Jun 2024 15:18:26.650 * Loading RDB produced by version 7.2.5
+52524:M 18 Jun 2024 15:18:26.650 * RDB age 12 seconds
+52524:M 18 Jun 2024 15:18:26.650 * RDB memory usage when created 1.05 Mb
+52524:M 18 Jun 2024 15:18:26.650 * Done loading RDB, keys loaded: 0, keys expired: 0.
+52524:M 18 Jun 2024 15:18:26.650 * DB loaded from disk: 0.000 seconds
+52524:M 18 Jun 2024 15:18:26.650 * Ready to accept connections tcp
+52524:signal-handler (1718738361) Received SIGINT scheduling shutdown...
+52524:M 18 Jun 2024 15:19:21.607 * User requested shutdown...
+52524:M 18 Jun 2024 15:19:21.607 * Saving the final RDB snapshot before exiting.
+52524:M 18 Jun 2024 15:19:21.613 * DB saved on disk
+52524:M 18 Jun 2024 15:19:21.613 # Redis is now ready to exit, bye bye...
